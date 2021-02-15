@@ -1,6 +1,3 @@
-//Name: Ronney Sanchez
-//Date 1/31/18
-//Course: COMP2040 (Computing IV)
 //Program: Sierpinski Triangle
 
 #include "Sierpinski.hpp"
